@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'sohne-var', 'Helvetica Neue', 'Arial', sans-serif;
+  src: url('https://b.stripecdn.com/mkt-statics-srv/assets/f965fdf4.woff2%27');
+  src: url('https://b.stripecdn.com/mkt-statics-srv/assets/1a930247.woff2%27');
+}
